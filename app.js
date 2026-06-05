@@ -482,3 +482,6 @@
 
         // Start checking registry sync on system initialization load
         fetchDatabase();
+
+
+        
