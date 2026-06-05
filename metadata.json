@@ -1,0 +1,6 @@
+{
+  "name": "Secure Document Vault",
+  "description": "A secured workspace for organizing, classifying, searching, and uploading document records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
